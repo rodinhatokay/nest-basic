@@ -9,4 +9,3 @@ export class PaginationQueryDto {
   @IsPositive()
   offset: number;
 }
-``;
